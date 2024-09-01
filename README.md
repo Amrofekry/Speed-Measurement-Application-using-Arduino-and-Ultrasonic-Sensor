@@ -1,5 +1,5 @@
 # Speed Measurement Application Using Arduino and Ultrasonic Sensor
-
++++khra+++
 ## Project Overview
 This project involves developing a simple application using an Arduino and an ultrasonic sensor to measure the speed of an object. The application will calculate the speed based on the time taken for the object to pass between two points, using the distance measurements provided by the ultrasonic sensor.
 
