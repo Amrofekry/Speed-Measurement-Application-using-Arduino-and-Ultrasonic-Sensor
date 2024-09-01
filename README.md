@@ -52,6 +52,8 @@ The code is designed to:
 ## Conclusion
 This project demonstrates the application of an ultrasonic sensor with an Arduino to measure the speed of an object. It highlights basic concepts of distance measurement and speed calculation using real-time data from the sensor.
 
+![Screenshot 2024-09-01 110355](https://github.com/user-attachments/assets/e3ed6d77-8655-4609-b836-d46d1eb5f485)
+
 [View the Tinkercad Simulation](https://www.tinkercad.com/things/8FuHyVj9ih0-arduino-ultrasonic-speed-measurementamro-fekry-/editel?sharecode=6Vf8lfSznbd-6ALuduzCwyrZ4gB1lpgspumrtwqzf1E)
 
 
